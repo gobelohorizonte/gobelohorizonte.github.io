@@ -1,7 +1,5 @@
-# TODO: não pegou com site pq o docker acessa e nao tem nada na url sempre rodar com localhost
-# quando estiver local
 #baseURL = "https://gobh.dev/"
-baseURL = "http://localhost:8081/"
+baseURL = "http://gobh.github.io/"
 languageCode = "pt_BR"
 title = "Site da Comunidade Go de BH"
 defaultContentLanguage = "pt"
